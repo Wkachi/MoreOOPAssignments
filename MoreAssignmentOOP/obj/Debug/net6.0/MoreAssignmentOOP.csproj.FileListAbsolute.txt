@@ -1,0 +1,15 @@
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\bin\Debug\net6.0\MoreAssignmentOOP.exe
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\bin\Debug\net6.0\MoreAssignmentOOP.deps.json
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\bin\Debug\net6.0\MoreAssignmentOOP.runtimeconfig.json
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\bin\Debug\net6.0\MoreAssignmentOOP.dll
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\bin\Debug\net6.0\MoreAssignmentOOP.pdb
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.csproj.CoreCompileInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.dll
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\refint\MoreAssignmentOOP.dll
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.pdb
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\MoreAssignmentOOP.genruntimeconfig.cache
+C:\Users\Kachi\Desktop\Backend Dev\MoreAssignmentOOP\MoreAssignmentOOP\obj\Debug\net6.0\ref\MoreAssignmentOOP.dll
